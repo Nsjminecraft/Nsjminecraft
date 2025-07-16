@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Niranjan Shanmuganathan Jothilakshmi
 ============================================================================================================================================================
 
-Full Stack dev and hign schooler
+Full Stack dev and High Schooler
 --------------------------------
 
-I have been coding since i was 2019. I have developed more skills since then . I love to code, bike, and read.
+I have been coding since 2019. I have developed more skills since then . I love to code, bike, and read.
 
 * 🌍  I'm based in Brampton Canada
 * 🖥️  See my portfolio at [This is my Portfolio](http://niranjansj.club)
