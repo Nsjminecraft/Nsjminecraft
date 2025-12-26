@@ -7,7 +7,7 @@ High Schooler and Full Stack Dev
 I have been coding since 2019 and have learned alot of new technologies. I love to code, read a book, or bike around.
 
 * 🌍  I'm based in Brampton, Canada
-* 🖥️  See my portfolio at [Niranjansj.club](http://niranjansj.club)
+* 🖥️  See my portfolio at [Niranjansj.tech](http://niranjansj.tech)
 * ✉️  You can contact me at [nerfgunredusebook@gmail.com](mailto:nerfgunredusebook@gmail.com)
 * 🚀  I'm currently working on [A Badminton Website](http://niranjandemopage.duckdns.org:25565)
 * 🧠  I'm currently learning Flutter and Fast API and AI
