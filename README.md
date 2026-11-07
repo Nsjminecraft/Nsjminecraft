@@ -1,27 +1,129 @@
-# 💫 About Me:
-🌍  I'm based in Brampton Ontario<br>🖥️  See my portfolio at niranjansj.club<br>✉️  You can contact me at nerfgunredusebook@gmail.com<br>🧠  I'm learning how to use proxmox<br>🤝  I'm open to collaborating on hackathons and cool projects<br>⚡  I use arch BTW
+<div align="center">
 
+<p><code>nsjminecraft@github ~ $ neofetch --live</code></p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/theintrealer) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/niranjan-shanmuganathan-jothilakshmi-979109371) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nerfgunredusebook@gmail.com) 
+<table width="100%" style="display:table;width:100%;table-layout:fixed;">
+<tr>
+<td width="100%" style="width:100%;" valign="middle" align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=nsjminecraft&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F130720051%3Fu%3D70d9163595cc60302d6393fd36328fcc203cf66c%26v%3D4&style=terminal&color=1&v=terminal-portrait-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/portrait?username=nsjminecraft&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F130720051%3Fu%3D70d9163595cc60302d6393fd36328fcc203cf66c%26v%3D4&style=terminal&color=1&v=terminal-portrait-1&mode=dark" width="680" alt="NIRANJAN SHANMUGANATHAN JOTHILKSHMI animated terminal portrait" />
+</picture>
+</td>
+</tr>
+</table>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white) ![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=for-the-badge&logo=Jellyfin&logoColor=00A4DC) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Tampermonkey](https://img.shields.io/badge/tampermonkey-%2300485B.svg?style=for-the-badge&logo=tampermonkey&logoColor=white) ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white) ![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Nsjminecraft&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Nsjminecraft&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Nsjminecraft&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<table width="100%" style="display:table;width:100%;table-layout:fixed;">
+<tr>
+<td width="100%" style="width:100%;" valign="middle" align="center">
+<pre><code>┌─[ IDENTITY ]──────────────────┐
+│ NIRANJAN SHANMUGANATHAN JOTH │
+│ High School Student          │
+├─[ TELEMETRY ]─────────────────┤
+│ repos                 39 │
+│ stars                  3 │
+│ contributions        327 │
+│ followers              5 │
+│ location      Brampton, ON   │
+└───────────────────────────────┘</code></pre>
+</td>
+</tr>
+</table>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Nsjminecraft&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p><strong>● ONLINE</strong> · Motivated and enthusiastic high school student passionate about software development and technology. Experienced in full-stack web development, creating practical tools like weather and stock applications. Dedicated to teamwork, innovation, and continuous learning.</p>
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<h2><code>$ tail -n 7 /var/log/build.log</code></h2>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Nsjminecraft&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<pre><code>[ok] identity loaded: NIRANJAN SHANMUGANATHAN JOTHILKSHMI
+[ok] role detected: High School Student
+[ok] environment: GitHub public cloud
+[ok] workspace: independent
+[ok] coordinates: Brampton, ON
+[ok] primary stack: Python · HTML · Rust · JavaScript
+[run] Motivated and enthusiastic high school student passionate about software development and technology. Experienced in full-stack web development, creating practical tools like weather and stock applications. Dedicated to teamwork, innovation, and continuous learning.</code></pre>
 
----
-[![](https://komarev.com/ghpvc/?username=Nsjminecraft&icon=0&color=0)](https://visitcount.itsvg.in)
+<p>Building, learning, and shipping useful systems in public.</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h2><code>$ which --all toolchain</code></h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=nsjminecraft&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F130720051%3Fu%3D70d9163595cc60302d6393fd36328fcc203cf66c%26v%3D4&style=terminal&v=terminal-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=nsjminecraft&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F130720051%3Fu%3D70d9163595cc60302d6393fd36328fcc203cf66c%26v%3D4&style=terminal&v=terminal-stack-1&mode=dark" width="100%" alt="NIRANJAN SHANMUGANATHAN JOTHILKSHMI terminal toolchain" />
+</picture>
+</p>
+
+<table width="100%">
+<tr>
+<td width="17%" align="center"><strong>Python</strong><br /><sub>82%</sub></td>
+<td width="17%" align="center"><strong>HTML</strong><br /><sub>6%</sub></td>
+<td width="17%" align="center"><strong>Rust</strong><br /><sub>4%</sub></td>
+<td width="17%" align="center"><strong>JavaScript</strong><br /><sub>3%</sub></td>
+<td width="17%" align="center"><strong>CSS</strong><br /><sub>2%</sub></td>
+<td width="17%" align="center"><strong>C</strong><br /><sub>1%</sub></td>
+</tr>
+</table>
+
+<h2><code>$ git launchpad --all</code></h2>
+
+<p align="center"><picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=nsjminecraft&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F130720051%3Fu%3D70d9163595cc60302d6393fd36328fcc203cf66c%26v%3D4&repos=nsjminecraft%2FClai_TALOS%2Cnsjminecraft%2Fdecoupled-ai%2Cnsjminecraft%2FShimplyShop%2Cnsjminecraft%2FSpurhacks2025%2Cnsjminecraft%2Fios-remote-linux&v=terminal-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=nsjminecraft&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F130720051%3Fu%3D70d9163595cc60302d6393fd36328fcc203cf66c%26v%3D4&repos=nsjminecraft%2FClai_TALOS%2Cnsjminecraft%2Fdecoupled-ai%2Cnsjminecraft%2FShimplyShop%2Cnsjminecraft%2FSpurhacks2025%2Cnsjminecraft%2Fios-remote-linux&v=terminal-projects-1&mode=dark" width="860" alt="NIRANJAN SHANMUGANATHAN JOTHILKSHMI terminal project launchpad" />
+</picture></p>
+
+<table width="100%">
+<tr>
+<td width="20%" valign="top"><p><code>Clai_TALOS</code></p><p>The beginner-friendly, self-healing alternative to Openclaw. High-performance automation, without the overhead.</p><p><sub>Python · ⭐ 5</sub></p><a href="https://github.com/VynavinV/Clai_TALOS">open →</a></td>
+<td width="20%" valign="top"><p><code>decoupled-ai</code></p><p>A high-performance, concurrent Rust engine implementing N-gram Speculative Decoding. Features thread-local index capabilities, target verification, SS</p><p><sub>Rust · ⭐ 0</sub></p><a href="https://github.com/Nsjminecraft/decoupled-ai">open →</a></td>
+<td width="20%" valign="top"><p><code>ShimplyShop</code></p><p>A public repository worth exploring.</p><p><sub>Python · ⭐ 1</sub></p><a href="https://github.com/Nsjminecraft/ShimplyShop">open →</a></td>
+<td width="20%" valign="top"><p><code>Spurhacks2025</code></p><p>A public repository worth exploring.</p><p><sub>CSS · ⭐ 0</sub></p><a href="https://github.com/Nsjminecraft/Spurhacks2025">open →</a></td>
+<td width="20%" valign="top"><p><code>ios-remote-linux</code></p><p>Control and mirror iPhone screen from Linux - no jailbreak, no Xcode, no macOS</p><p><sub>Python · ⭐ 0</sub></p><a href="https://github.com/Nsjminecraft/ios-remote-linux">open →</a></td>
+</tr>
+</table>
+
+<h2><code>$ git status --short</code></h2>
+
+<p align="center"><strong>working tree: clean · shipping consistently</strong></p>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=nsjminecraft&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F130720051%3Fu%3D70d9163595cc60302d6393fd36328fcc203cf66c%26v%3D4&style=terminal&v=terminal-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=nsjminecraft&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F130720051%3Fu%3D70d9163595cc60302d6393fd36328fcc203cf66c%26v%3D4&style=terminal&v=terminal-stats-1&mode=dark" width="100%" alt="NIRANJAN SHANMUGANATHAN JOTHILKSHMI terminal contribution statistics" />
+</picture>
+</p>
+
+<h2><code>$ git log --graph --all</code></h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=nsjminecraft&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F130720051%3Fu%3D70d9163595cc60302d6393fd36328fcc203cf66c%26v%3D4&v=terminal-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=nsjminecraft&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F130720051%3Fu%3D70d9163595cc60302d6393fd36328fcc203cf66c%26v%3D4&v=terminal-heatmap-1&mode=dark" width="100%" alt="NIRANJAN SHANMUGANATHAN JOTHILKSHMI terminal contribution graph" />
+</picture>
+</p>
+
+<h2><code>$ ssh nsjminecraft@github</code></h2>
+
+<p>Ready to pair on a useful problem, review a systems decision, or ship the next small thing.</p>
+<p align="center"><picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=nsjminecraft&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F130720051%3Fu%3D70d9163595cc60302d6393fd36328fcc203cf66c%26v%3D4&v=terminal-social-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/social?username=nsjminecraft&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F130720051%3Fu%3D70d9163595cc60302d6393fd36328fcc203cf66c%26v%3D4&v=terminal-social-1&mode=dark" width="100%" alt="NIRANJAN SHANMUGANATHAN JOTHILKSHMI terminal contact links" />
+</picture></p>
+<p align="center"><a href="https://github.com/nsjminecraft">GitHub</a> &nbsp;·&nbsp; <a href="https://niranjansj.tech/">Website</a> &nbsp;·&nbsp; <a href="mailto:Nerfgunredusebook@gmail.com">Email</a></p>
+<p align="center"><sub>NIRANJAN SHANMUGANATHAN JOTHILKSHMI · terminal command center generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+
+## Experience
+
+<b>Education</b>
+
+- Student — Chinguacousy Secondary School
+
+<!-- gitskins:architecture -->
+### How [ClaiTALOS](https://github.com/VynavinV/Clai_TALOS) works
+
+Clai TALOS is a self-hosted Python AI assistant whose principal workflow runs from a user message (Telegram, web dashboard, or Android glasses) through the core AI loop, model router and tools to a reply.
+
+<a href="https://github.com/VynavinV/Clai_TALOS"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/repo-diagram/image?owner=VynavinV&amp;repo=Clai_TALOS&amp;theme=dark&amp;v=1794067352847">
+  <img alt="Architecture diagram of VynavinV/ClaiTALOS" src="https://www.gitskins.com/api/repo-diagram/image?owner=VynavinV&amp;repo=Clai_TALOS&amp;theme=light&amp;v=1794067352847">
+</picture></a>
+<!-- /gitskins:architecture -->
